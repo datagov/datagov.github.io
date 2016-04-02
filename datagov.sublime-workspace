@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"pr",
+				"printone"
+			],
+			[
+				"new",
+				"newtodo"
+			],
+			[
+				"todo",
+				"todolist"
+			],
+			[
+				"to",
+				"todoctrl"
+			],
+			[
+				"my",
+				"myfirstctrl"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"m",
+				"master"
+			],
+			[
+				"te",
+				"tempemail"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"us",
+				"userinfoform"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"se",
+				"send_mail"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"dr",
+				"dropmessageform"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"drop",
+				"dropmessage"
+			],
+			[
+				"fr",
+				"from	from"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"wnm",
+				"wnmhome"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"bg",
+				"bgcarousel"
+			],
+			[
+				"t",
+				"testimonialspage"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"butt",
+				"buttonbar"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"po",
+				"postbutton"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"top",
+				"topmostlp"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"ri",
+				"rightpane"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"F",
+				"FFFFFF"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"Inde",
+				"IndexFILE"
+			],
+			[
+				"sc",
+				"schedule"
+			],
+			[
+				"res",
+				"resize"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"ho",
+				"homeframevar"
+			],
+			[
+				"home",
+				"homeframe"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"ge",
+				"getDate"
+			],
+			[
+				"r",
+				"rightpane"
+			],
+			[
+				"con",
+				"contactspage"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"a",
+				"activemenu"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"backgroundimage"
+			],
+			[
+				"b",
+				"border-width"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"au",
+				"autoAlpha"
+			],
+			[
+				"s",
+				"set	set"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"wa",
+				"waveztextcontainer"
+			],
+			[
+				"ea",
+				"easeOut"
+			],
+			[
+				"an",
+				"anchorcontainer"
+			],
+			[
+				"win",
+				"windowwidth"
+			],
+			[
+				"ta",
+				"transformOrigin"
+			],
+			[
+				"Tw",
+				"TweenLite"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"fad",
+				"fadeToggle"
+			],
+			[
+				"ew",
+				"ewiseshedon"
+			],
+			[
+				"e",
+				"ewiseshedoff"
+			],
+			[
+				"ewi",
+				"ewiseshedon"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"sch",
+				"schedtabb1"
+			],
+			[
+				"shedta",
+				"schedtabb2"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"sche",
+				"scheduletab"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"l",
+				"livemenu"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"bt",
+				"btn-group"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"table-c",
+				"table-column"
+			],
+			[
+				"border-r",
+				"border-right-color"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"log",
+				"lognavmenu"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"eco",
+				"econtact"
+			],
+			[
+				"live",
+				"livetab"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"free",
+				"freestylesolo"
+			],
+			[
+				"rce",
+				"researchexpo"
+			],
+			[
+				"resea",
+				"researchexpo"
+			],
+			[
+				"borer-c",
+				"border-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mo",
+				"modal-content"
+			],
+			[
+				"moda",
+				"modal-dialog"
+			],
+			[
+				"ro",
+				"roboceana"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"n",
+				"nav"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"na",
+				"navmenu"
+			],
+			[
+				"sl",
+				"slide1"
+			],
+			[
+				"wav",
+				"wavezslideshow"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"nav",
+				"navmenu"
+			],
+			[
+				"navmenu",
+				"navmenuicon"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 223.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abinthomasonline/Desktop/datagov.github.io/assets/css/styles.css",
+		"/Users/abinthomasonline/Desktop/a.c",
+		"/Users/abinthomasonline/Desktop/Code_WS/t.html",
+		"/Users/abinthomasonline/Desktop/Code_WS/ex1.html",
+		"/Users/abinthomasonline/Desktop/Code_WS/ex5.html",
+		"/Users/abinthomasonline/Desktop/Code_WS/js/ex5.js",
+		"/Users/abinthomasonline/Desktop/Code_WS/ex4.html",
+		"/Users/abinthomasonline/Desktop/Code_WS/ex2.html",
+		"/Users/abinthomasonline/Desktop/Code_WS/ex3.html",
+		"/Users/abinthomasonline/Desktop/Code_WS/js/angular.js",
+		"/Users/abinthomasonline/Desktop/AngularJS/Views/Mainview.html",
+		"/Users/abinthomasonline/Desktop/AngularJS/JavaScript/angular.js",
+		"/Users/abinthomasonline/Downloads/angular-todo-app-master/app/index.html",
+		"/Users/abinthomasonline/Downloads/angular-todo-app-master/app/js/controllers.js",
+		"/Users/abinthomasonline/Downloads/angular-todo-app-master/app/js/directive.js",
+		"/Users/abinthomasonline/Desktop/AnimationsDemo/src/com/example/android/animationsdemo/ScreenSlidePageFragment.java",
+		"/Users/abinthomasonline/Desktop/wavez_2016/index.html",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/tests.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/models.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/forms.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/apps.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/admin.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/__init__.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/migrations/__init__.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/migrations/0004_remove_dropmessage_msgid.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/migrations/0003_auto_20160202_1835.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/migrations/0002_auto_20160202_0952.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/migrations/0001_initial.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/urls.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/tests.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/models.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/forms.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/apps.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/admin.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/__init__.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/migrations/__init__.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/migrations/0001_initial.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/templates/index.html",
+		"/Users/abinthomasonline/Desktop/wnm/source/customerdetails/views.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/templates/userpage.html",
+		"/Users/abinthomasonline/Desktop/wnm/source/wnm/urls.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/views.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/wnm/settings.py",
+		"/Users/abinthomasonline/Desktop/wnm/source/home/urls.py",
+		"/Users/abinthomasonline/Desktop/wnm/wnm/wnm/__init__.py",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmbend/urls.py",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmhome/urls.py",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmhome/templates/wnmhome/homepage.html",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmhome/views.py",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmhome/forms.py",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmbend/settings.py",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmhome/templates/homepage.html",
+		"/Users/abinthomasonline/Desktop/wnmbend/wnmbend/views.py",
+		"/Users/abinthomasonline/Desktop/wink-n-minkv2/settings.py",
+		"/Users/abinthomasonline/Documents/Wink n Mink/Designs/Design 2/index.html",
+		"/Users/abinthomasonline/Desktop/wavez_2016/corelogin/login.html",
+		"/Users/abinthomasonline/Desktop/wavez_2016/contact-form.php",
+		"/Users/abinthomasonline/Desktop/wavez_2016/corelogin/index.html",
+		"/Users/abinthomasonline/Desktop/django-guestbook/guestbook/views.py",
+		"/Library/Preferences/SystemConfiguration/NetworkInterfaces.plist",
+		"/Users/abinthomasonline/Desktop/wnm/polls/views.py",
+		"/Users/abinthomasonline/Desktop/wnm/polls/urls.py",
+		"/Users/abinthomasonline/Desktop/wnm/app.yaml",
+		"/Users/abinthomasonline/Desktop/wink_n_mink/wink_n_mink/urls.py",
+		"/Users/abinthomasonline/Desktop/wink_n_mink/polls/urls.py",
+		"/Users/abinthomasonline/Desktop/wink_n_mink/polls/tests.py",
+		"/Users/abinthomasonline/Desktop/wink_n_mink/polls/models.py",
+		"/Users/abinthomasonline/Desktop/wink_n_mink/wink_n_mink/settings.py",
+		"/Users/abinthomasonline/Desktop/wink_n_mink/polls/views.py",
+		"/Users/abinthomasonline/Desktop/wink-n-mink/main.py",
+		"/Users/abinthomasonline/Desktop/wink-n-mink/public/css/style.css",
+		"/Users/abinthomasonline/Desktop/wink-n-mink/index.yaml",
+		"/Users/abinthomasonline/Desktop/wink-n-mink/public/index.html",
+		"/Users/abinthomasonline/Desktop/wavez_2016/assets/css/style.css",
+		"/Users/abinthomasonline/Desktop/wavez_home/index.html",
+		"/Users/abinthomasonline/Desktop/winknmink/css/style.css",
+		"/Users/abinthomasonline/Desktop/winknmink/index.html",
+		"/Users/abinthomasonline/Desktop/winknmink/js/jquery.min.js",
+		"/Users/abinthomasonline/Desktop/winknmink/js/anim.js",
+		"/Users/abinthomasonline/Desktop/winknmink/css/bootstrap.min.css",
+		"/Users/abinthomasonline/Desktop/WinknMink/index.html",
+		"/Users/abinthomasonline/Desktop/WinknMink/js/anim.js",
+		"/Users/abinthomasonline/Desktop/WinknMink/css/style.css",
+		"/Users/abinthomasonline/Desktop/test.html",
+		"/Users/abinthomasonline/Desktop/wavez_2016/assets/js/events.js",
+		"/Users/abinthomasonline/Desktop/wavez_2016/assets/events.txt",
+		"/Users/abinthomasonline/Desktop/wavez_2016/Write ups.docx",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/wavez_2016/index.html",
+		"/Users/abinthomasonline/Desktop/WebOps/index.html",
+		"/Users/abinthomasonline/Desktop/WinknMink/css/bootstrap.min.css",
+		"/Users/abinthomasonline/Desktop/WinknMink/js/bootstrap.min.js",
+		"/Users/abinthomasonline/Desktop/WinknMink/js/jquery.min.js",
+		"/Users/abinthomasonline/Desktop/WebOps/new.html",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/Coming Soon/index.html",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/temp/index.html",
+		"/Users/abinthomasonline/Desktop/untitled.html",
+		"/Users/abinthomasonline/Desktop/WebOps/index1.html",
+		"/Users/abinthomasonline/Desktop/h.c",
+		"/Users/abinthomasonline/Desktop/WebOps/js/bootstrap.min.js",
+		"/Users/abinthomasonline/Desktop/WebOps/js/bootstrap.js",
+		"/Users/abinthomasonline/Desktop/WebOps/css/bootstrap.min.css",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/temp/edited.html",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/temp/css/bootstrap.css",
+		"/Users/abinthomasonline/Documents/Wink n Mink/Designs/Design 2/assets/js/custom.js",
+		"/Users/abinthomasonline/Documents/Wink n Mink/Designs/Design 2/assets/css/style.css",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/Wavez2016/index.php",
+		"/Users/abinthomasonline/Documents/Wavez WebOps/Wavez2016/file1.js",
+		"/Volumes/cmsrv.iitm.ac.in/2015/index.php",
+		"/Users/abinthomasonline/Desktop/mrdoob-three.js-1f968fe/build/three.min.js",
+		"/Users/abinthomasonline/Desktop/mrdoob-three.js-1f968fe/examples/canvas_particles_waves.html",
+		"/Users/abinthomasonline/Desktop/mrdoob-three.js-1f968fe/examples/test.css",
+		"/Users/abinthomasonline/a.c",
+		"/Users/abinthomasonline/test.c",
+		"/Users/abinthomasonline/Documents/Academics/AM1101/Links.txt",
+		"/Users/abinthomasonline/Documents/Academics/ME1101/Links.txt",
+		"/Users/abinthomasonline/Desktop/test.c",
+		"/Users/abinthomasonline/Desktop/cs8.c",
+		"/Users/abinthomasonline/Documents/Coding Optimization/CodOpt.c",
+		"/Users/abinthomasonline/Desktop/CodOpt.c",
+		"/Users/abinthomasonline/Desktop/csp71a.c",
+		"/Users/abinthomasonline/Desktop/csp72.c",
+		"/Users/abinthomasonline/Desktop/csp7.c",
+		"/Users/abinthomasonline/Desktop/cs71.c",
+		"/Users/abinthomasonline/Downloads/shashi.html",
+		"/Users/abinthomasonline/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rc boats",
+			"sche",
+			" class=\"pull-right\"",
+			"'>\n",
+			"z-i",
+			".logo-head",
+			".logo",
+			".schedule",
+			"img",
+			"schedb",
+			"shedbu",
+			"header",
+			"content-block",
+			"header",
+			"input",
+			"0.5",
+			"33%",
+			"33.1%",
+			"66%",
+			"windowwidth-65",
+			"Power0",
+			".4",
+			".2",
+			" ",
+			"icon-bar",
+			"z-",
+			".icon-bar",
+			"lg\" role=\"button\" id=\"eschedule\">Schedule",
+			"lg\" role=\"button\" id=\"erules\">Rules",
+			"lg\" role=\"button\" id=\"eprblmstmt\">Problem Statement",
+			"lg\" role=\"button\" id=\"eprize\">Prize",
+			"lg\" role=\"button\" id=\"econtact\">Contact",
+			"vetab\" role=\"button\" id=\"eoverview\">Overview",
+			"n-lg\" role=\"button\" id=\"econtact\">Contact",
+			"lg\" role=\"button\" id=\"eprblmstmt\">Problem Statement",
+			"lg\" role=\"button\" id=\"eprize\">Prize",
+			"ivetab\" role=\"button\" id=\"eoverview\">Overview",
+			"id=\"eoverview\"",
+			"e1o",
+			"<a class=\"recent-work\"",
+			"id=\"e ",
+			"scroll",
+			"#0442B4",
+			"a:hover",
+			"navs",
+			"hover",
+			"nav",
+			"navs",
+			"navs.less",
+			"nav",
+			"nav-pills",
+			"nav",
+			"nav-pills",
+			"btn-group",
+			"home",
+			"scroll",
+			"id=\"scroll\"",
+			"scroll",
+			"carousel",
+			"setTimer",
+			"slides",
+			"home",
+			"banner",
+			"srno",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
