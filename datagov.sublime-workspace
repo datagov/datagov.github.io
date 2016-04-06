@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"im",
+				"img"
+			],
+			[
+				"DI",
+				"display"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
 				"li",
 				"link	Tag"
 			],
@@ -182,10 +198,6 @@
 			[
 				"po",
 				"postbutton"
-			],
-			[
-				"di",
-				"div"
 			],
 			[
 				"d",
@@ -502,14 +514,6 @@
 			[
 				"navmenu",
 				"navmenuicon"
-			],
-			[
-				"border-s",
-				"border-style"
-			],
-			[
-				"inc",
-				"include"
 			]
 		]
 	},
@@ -519,7 +523,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 510,
+				"buffer_size": 853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/anim.js",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 206,
 				"line_ending": "Unix"
 			}
 		}
@@ -694,6 +714,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"		\n",
+			"assets",
 			"rc boats",
 			"sche",
 			" class=\"pull-right\"",
@@ -776,7 +798,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -784,20 +806,74 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 510,
+						"buffer_size": 853,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								267,
-								267
+								606,
+								606
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/js/anim.js",
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/styles.css",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
