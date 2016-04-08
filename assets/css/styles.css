@@ -54,6 +54,65 @@ body > #slideshow > #slideshowcontrols > ul > li {
 	border-width: 4px;
 	border-style: solid;
 	border-color: #FFFFFF;
+	box-shadow: 1px 1px 4px 0 #333;
+	margin-left: 6px;
+	margin-right: 6px;
 }
 
 /*............ slideshow stuff ends ...............*/
+
+/*............. Maincontent Styles ................*/
+
+body > #maincontent {
+	margin-top: 30px;
+}
+
+body > #maincontent > .pagepanes {
+	display: inline-block;
+	width: 28.58%;
+	margin-left: 3.56%;
+	vertical-align: top;
+}
+
+body > #maincontent > .pagepanes > .pageblocks {
+	border: 1px solid #ddd;
+	margin-bottom: 30px;
+}
+
+body > #maincontent > .pagepanes > .pageblocks > .blockheader > h2 {
+	background-image: url(../images/blockheader.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	margin-bottom: 0;
+	margin-top: 0;
+	display: inline-block;
+	padding: 7px 30px 7px 13px;
+	font-size: 100%;
+	font-family: open sans bold;
+	color: #242424;
+}
+
+body > #maincontent > .pagepanes > .pageblocks > .blockcontent > .block3tiles {
+	width: 33.33%;
+	margin-bottom: 0.5px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+body > #maincontent > .pagepanes > .pageblocks > .blockcontent > .block2tiles {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 0.5px;
+}
+
+body > #maincontent > #rightpane > .pageblocks > #block9content > .block3tiles > img {
+	width: 100%;
+	height: 100%;
+}
+
+body > #maincontent > .pagepanes > .pageblocks > .blockfooter {
+	height: 62px;
+	width: 100%;
+	background: rgba(0,0,0,0) url(../images/blockfooter.png) no-repeat scroll center 0;
+}

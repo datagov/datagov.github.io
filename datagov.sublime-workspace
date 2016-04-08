@@ -4,8 +4,116 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background"
+			],
+			[
+				"pa",
+				"pageblocks"
+			],
+			[
+				"pag",
+				"pagepanes"
+			],
+			[
 				"im",
 				"img"
+			],
+			[
+				"blo",
+				"block3tiles"
+			],
+			[
+				"ma",
+				"maincontent"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mAr",
+				"margin-bottom"
+			],
+			[
+				"bloc",
+				"blockheader"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"mo",
+				"mouseenter"
+			],
+			[
+				"sli",
+				"slideshowcontrols"
+			],
+			[
+				"slid",
+				"slideshowcontrols"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"sl",
+				"slideshowcontrols"
+			],
+			[
+				"slide",
+				"slideshowcontrols"
+			],
+			[
+				"h",
+				"hide"
+			],
+			[
+				"slides",
+				"slideshowid"
+			],
+			[
+				"fun",
+				"function"
 			],
 			[
 				"DI",
@@ -38,10 +146,6 @@
 			[
 				"todo",
 				"todolist"
-			],
-			[
-				"to",
-				"todoctrl"
 			],
 			[
 				"my",
@@ -124,14 +228,6 @@
 				"wnmhome"
 			],
 			[
-				"h",
-				"h1	Tag"
-			],
-			[
-				"pa",
-				"padding-top"
-			],
-			[
 				"co",
 				"color"
 			],
@@ -144,24 +240,12 @@
 				"bgcarousel"
 			],
 			[
-				"t",
-				"testimonialspage"
-			],
-			[
 				"p",
 				"padding-bottom"
 			],
 			[
 				"pad",
 				"padding-bottom"
-			],
-			[
-				"border",
-				"border-style"
-			],
-			[
-				"in",
-				"input	Tag"
 			],
 			[
 				"th",
@@ -188,14 +272,6 @@
 				"border-bottom-color"
 			],
 			[
-				"ma",
-				"margin"
-			],
-			[
-				"bo",
-				"border-bottom"
-			],
-			[
 				"po",
 				"postbutton"
 			],
@@ -220,10 +296,6 @@
 				"rightpane"
 			],
 			[
-				"mar",
-				"margin-top"
-			],
-			[
 				"F",
 				"FFFFFF"
 			],
@@ -242,10 +314,6 @@
 			[
 				"res",
 				"resize"
-			],
-			[
-				"wi",
-				"window"
 			],
 			[
 				"ho",
@@ -282,10 +350,6 @@
 			[
 				"back",
 				"background"
-			],
-			[
-				"ba",
-				"backgroundimage"
 			],
 			[
 				"b",
@@ -368,10 +432,6 @@
 				"schedtabb2"
 			],
 			[
-				"v",
-				"visibility"
-			],
-			[
 				"sche",
 				"scheduletab"
 			],
@@ -412,16 +472,8 @@
 				"border-bottom-color"
 			],
 			[
-				"bord",
-				"border-color"
-			],
-			[
 				"log",
 				"lognavmenu"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"margi",
@@ -462,58 +514,6 @@
 			[
 				"font",
 				"font-size"
-			],
-			[
-				"mo",
-				"modal-content"
-			],
-			[
-				"moda",
-				"modal-dialog"
-			],
-			[
-				"ro",
-				"roboceana"
-			],
-			[
-				"col",
-				"col-sm-6"
-			],
-			[
-				"o",
-				"overflow"
-			],
-			[
-				"n",
-				"nav"
-			],
-			[
-				"border-c",
-				"border-color"
-			],
-			[
-				"na",
-				"navmenu"
-			],
-			[
-				"sl",
-				"slide1"
-			],
-			[
-				"wav",
-				"wavezslideshow"
-			],
-			[
-				"fu",
-				"function"
-			],
-			[
-				"nav",
-				"navmenu"
-			],
-			[
-				"navmenu",
-				"navmenuicon"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 853,
+				"buffer_size": 5573,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "assets/js/anim.js",
 			"settings":
 			{
-				"buffer_size": 174,
+				"buffer_size": 3941,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "assets/css/styles.css",
 			"settings":
 			{
-				"buffer_size": 206,
+				"buffer_size": 2344,
 				"line_ending": "Unix"
 			}
 		}
@@ -714,6 +714,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"slideshowcontrol",
+			"1000",
+			"nth-index",
+			"linear",
 			"		\n",
 			"assets",
 			"rc boats",
@@ -798,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -806,15 +810,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 853,
+						"buffer_size": 5573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								606,
-								606
+								1818,
+								1818
 							]
 						],
 						"settings":
@@ -823,7 +827,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3443.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -833,15 +837,15 @@
 					"file": "assets/js/anim.js",
 					"settings":
 					{
-						"buffer_size": 174,
+						"buffer_size": 3941,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								174,
-								174
+								1411,
+								1015
 							]
 						],
 						"settings":
@@ -850,7 +854,7 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 504.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -860,15 +864,15 @@
 					"file": "assets/css/styles.css",
 					"settings":
 					{
-						"buffer_size": 206,
+						"buffer_size": 2344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2256,
+								2256
 							]
 						],
 						"settings":
@@ -876,7 +880,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3504.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -940,6 +944,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 239.0,
+	"side_bar_width": 197.0,
 	"status_bar_visible": true
 }

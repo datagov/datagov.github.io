@@ -2,10 +2,14 @@
 $("body>#slideshow").css("height",($("#slideshow").width())*0.1875);
 $("body>#slideshow>.item:first").show();
 $("body>#slideshow>#slideshowcontrols>ul>li:first").css("background-color", "#85BE00");
+$("body>#maincontent>.pagepanes>.pageblocks>#block1content>div").css("height",($("body>#maincontent>.pagepanes>.pageblocks>.blockcontent>.block3tiles").width()*0.78));
+$("body>#maincontent>.pagepanes>.pageblocks>#block9content>div").css("height",($("body>#maincontent>.pagepanes>.pageblocks>.blockcontent>.block3tiles").width()));
 
 // Responsiveness
 $(window).resize(function() {
 	$("body>#slideshow").css("height",($("#slideshow").width())*0.1875);
+	$("body>#maincontent>.pagepanes>.pageblocks>#block1content>div").css("height",($("body>#maincontent>.pagepanes>.pageblocks>.blockcontent>.block3tiles").width()*0.78));
+	$("body>#maincontent>.pagepanes>.pageblocks>#block9content>div").css("height",($("body>#maincontent>.pagepanes>.pageblocks>.blockcontent>.block3tiles").width()));
 });
 
 // After loading DOM
