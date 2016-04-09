@@ -67,7 +67,8 @@ body > #maincontent {
 	margin-top: 30px;
 }
 
-body > #maincontent > .pagepanes {
+body > #maincontent > .pagepanes,
+body > #bottomimages > img {
 	display: inline-block;
 	width: 28.58%;
 	margin-left: 3.56%;
@@ -122,10 +123,28 @@ body > #maincontent > .pagepanes > .pageblocks > .blockcontent > .blockcontentim
 
 body > #maincontent > .pagepanes > .pageblocks > .blockcontent > .blockcontentheader {
 	color: #157bc5;
-	padding: 18px 10px 18px 10px;
+	padding: 10px 18px 10px 18px;
 	font-size: 18px;
 	font-family: "Open Sans",sans-serif;
 	line-height: 20px;
+}
+
+body > #maincontent > .pagepanes > .pageblocks > .blockcontent > .blockcontenttext {
+	padding: 0 18px 0 18px;
+}
+
+body > #maincontent > .pagepanes > .pageblocks > .blockcontent > .blockcontenttext > p {
+	line-height: 20px;
+	color: #333333;
+	font-family: "Open Sans",sans-serif;
+	font-size: 90%;
+	margin-top: 0;
+}
+
+/* ..............block show...................*/
+
+body > #maincontent > #centerpane > .pageblocks > .blockshow {
+	display: none;
 }
 
 /* ..............blockfooter styles............*/
@@ -186,4 +205,54 @@ body > #maincontent > .pagepanes > .pageblocks > .blockfooter > .moreinfobutton 
 
 body > #maincontent > .pagepanes > .pageblocks > .blockfooter > .moreinfobutton:hover {
 	background: rgba(0,0,0,0) url(../images/arrowiconhover.png) no-repeat;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > #blockshowprev {
+	height: 100%;
+	width: 40px;
+	background: rgba(0,0,0,0) url(../images/allicons.png) no-repeat scroll -20px -2051px;
+	position: relative;
+	left: 10px;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > #blockshowprev:hover {
+	background: rgba(0,0,0,0) url(../images/allicons.png) no-repeat scroll -20px -1950px;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > .blockshowplaypause {
+	height: 100%;
+	width: 36px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	margin: auto;
+	display: none;
+	z-index: 100;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > #blockshowplay {
+	background: rgba(0,0,0,0) url(../images/play.svg) no-repeat center center;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > #blockshowpause {
+	background-image: url(../images/pause.svg);
+	background-size: 36px 36px;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > #blockshownext {
+	height: 100%;
+	width: 40px;
+	position: absolute;
+	right: 10px;
+	top: 0;
+	background: rgba(0,0,0,0) url(../images/allicons.png) no-repeat scroll 1px -1849px;
+}
+
+body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontrols > #blockshownext:hover {
+	background: rgba(0,0,0,0) url(../images/allicons.png) no-repeat scroll 1px -1748px;
+}
+
+body > #bottomimages {
+	margin-bottom: 80px;
 }
