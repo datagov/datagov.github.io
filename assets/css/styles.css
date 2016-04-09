@@ -8,6 +8,7 @@ body > #slideshow {
 	overflow: hidden;
 	position: relative;
 	background-color: #333333;
+	margin-top: 90px;
 }
 
 body > #slideshow > .item,
@@ -255,4 +256,89 @@ body > #maincontent > #centerpane > .pageblocks > .blockfooter > #blockshowcontr
 
 body > #bottomimages {
 	margin-bottom: 80px;
+}
+
+body > #footerlight {
+	background-color: #3B3D42;
+	height: 223px;
+}
+
+body > #footerdark {
+	background-color: #2D2F34;
+	height: 83px;
+	border-top: 1px solid #57595d;
+}
+
+/*.............Fixed Stuff.....................*/
+
+body > #backtotop {
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	background-color: #DDDDDD;
+	right: 40px;
+	bottom: 40px;
+	opacity: .7;
+	-webkit-transition-property: background, opacity;
+    -webkit-transition-duration: 1s;
+    -o-transition-property: background, opacity;
+    -o-transition-duration: 1s;
+    -moz-transition-property: background, opacity;
+    -moz-transition-duration: 1s;
+    transition-property: background, opacity;
+    transition-duration: 1s;
+    background-image: url(../images/backtotop.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: none;
+}
+
+body > #backtotop:hover {
+	background-color: #777777;
+	opacity: 1;
+}
+
+body > #navigationbar {
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 90px;
+	width: 100%;
+	background-color: #85BE00;
+	z-index: 102;
+}
+
+body > #navigationbar > #togglebutton {
+	position: absolute;
+	top: 18px;
+	right: 50px;
+	height: 54px;
+	width: 60px;
+	background: rgba(0,0,0,0) url(../images/allicons.png) no-repeat scroll left -6588px;
+	cursor: pointer;
+}
+
+body > #navigationbar > #closebutton {
+	position: absolute;
+	top: 18px;
+	right: 50px;
+	height: 54px;
+	width: 60px;
+	background: rgba(0,0,0,0) url(../images/allicons.png) no-repeat scroll 0 -6487px;
+	cursor: pointer;
+	display: none;
+}
+
+body > #dropdownbar {
+	position: fixed;
+	top: 90px;
+	left: 0;
+	height: 493px;
+	width: 100%;
+	background-color:rgba(239,250,214,0.9);
+	z-index: 101;
+	box-shadow: 0 0 5px 4px #999;
+	display: none;
+
 }

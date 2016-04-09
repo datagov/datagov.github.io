@@ -113,7 +113,6 @@ $(document).ready(function() {
 			startblockshow();
 		}
 	});
-	
 
 	// play/pause button
 	$("body>#slideshow>#slideshowcontrols>#play").click(function(){
@@ -171,4 +170,30 @@ $(document).ready(function() {
 	});
 
 	// Slideshow ends.............................
+
+	// Backtotop..................................
+	$(document).scroll(function(){
+		var toppostion = $(document).scrollTop();
+		if (toppostion>90) {
+			$("body>#backtotop").fadeIn("slow");
+		} else {
+			$("body>#backtotop").fadeOut("fast");
+		}
+	});
+
+	$("body>#backtotop").click(function(){
+		$("html, body").animate({scrollTop:"0px"},800);
+	});
+
+	// Naviagtion Bar............................
+	$("body > #navigationbar > #togglebutton").click(function(){
+		$("body > #navigationbar > #togglebutton").hide();
+		$("body > #navigationbar > #closebutton").show();
+		$("body > #dropdownbar").slideDown();
+	});
+	$("body > #navigationbar > #closebutton").click(function(){
+		$("body > #navigationbar > #closebutton").hide();
+		$("body > #navigationbar > #togglebutton").show();
+		$("body > #dropdownbar").slideUp();
+	});
 });
